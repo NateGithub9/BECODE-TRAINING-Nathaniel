@@ -26,4 +26,4 @@ Imagine each packet as a piece of candy wrapped in several layers. The first lay
 
 This theory file has been reviewed by ***Steven Mottiaux***  
 This theory file has been reviewed by **Karl Vandooren**.
-this theory file has been reviewed by **Brieuc de Goussencourt**
+<br />This theory file has been reviewed by **Brieuc de Goussencourt.**
