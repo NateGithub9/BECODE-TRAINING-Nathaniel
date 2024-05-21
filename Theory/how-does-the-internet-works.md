@@ -24,4 +24,5 @@ Every time you visit a website, upwards of 10 to 15 routers may help your packet
 
 Imagine each packet as a piece of candy wrapped in several layers. The first layer is your computer's IP address: your computer sends the packet to the first router, which adds its own IP address. Each time the packet reaches a new router, another layer is added until it reaches the server. Then when the server sends back information, it creates packets with an identical wrapping. As the packet makes its way over the internet back to your computer, each router unwraps a layer to discover where to send the packet next until it reaches your computer.
 
-This theory file has been reviewed by ***Steven Mottiaux***
+This theory file has been reviewed by ***Steven Mottiaux***  
+This theory file has been reviewed by **Karl Vandooren**.
