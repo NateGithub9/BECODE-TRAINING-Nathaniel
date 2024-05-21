@@ -10,8 +10,6 @@ Every server has a unique Internet Protocol address or IP address, just like a p
 
 So this is how it works. Your computer at home is not a server because it's not connected directly to the internet. Computers you and I use every day are called clients because they're connected indirectly to the internet through an internet service provider.
 
-
-
 Whenever an email, picture, or web page travels across the internet, computers break the information into smaller pieces called "packets." When information reaches its destination, the packets are reassembled in their original order to make a picture, email, web page, or tweet.
 
 ![Data transfert scheme](https://education.launchcode.org/lchs/_images/tcp-ip.png)
@@ -24,4 +22,8 @@ Every time you visit a website, upwards of 10 to 15 routers may help your packet
 
 Imagine each packet as a piece of candy wrapped in several layers. The first layer is your computer's IP address: your computer sends the packet to the first router, which adds its own IP address. Each time the packet reaches a new router, another layer is added until it reaches the server. Then when the server sends back information, it creates packets with an identical wrapping. As the packet makes its way over the internet back to your computer, each router unwraps a layer to discover where to send the packet next until it reaches your computer.
 
-This theory file has been reviewed by ***Steven Mottiaux***
+This theory file has been reviewed by **_Steven Mottiaux_**  
+This theory file has been reviewed by **Karl Vandooren**.
+<br />This theory file has been reviewed by **Brieuc de Goussencourt.**
+<br />This theory file has been reviewed by **_Lucas Maroy_**
+<br />This theory file has been reviewed by **Celia Sallet**
