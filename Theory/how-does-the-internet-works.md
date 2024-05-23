@@ -27,3 +27,8 @@ This theory file has been reviewed by **Karl Vandooren**.
 <br />This theory file has been reviewed by **Brieuc de Goussencourt.**
 <br />This theory file has been reviewed by **_Lucas Maroy_**
 <br />This theory file has been reviewed by **Celia Sallet**
+
+This theory file has been reviewed by **fabrice tchounkeu**
+
+
+
